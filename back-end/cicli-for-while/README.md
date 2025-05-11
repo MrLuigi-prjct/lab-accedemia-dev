@@ -4,4 +4,4 @@
 Concetto: Ripetere azioni.
 --------------------------------------------------------------------
 Esercizio: Stampa i primi 10 numeri pari.
-Poi modifica il programma per chiederli all'utente.
+           Poi modifica il programma per chiederli all'utente.
