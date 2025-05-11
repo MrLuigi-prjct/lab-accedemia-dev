@@ -7,7 +7,7 @@ Esercizio: Stampa i primi 10 numeri pari.
            Poi modifica il programma per chiederli all'utente.
 
 =======================================================================================================
-                                          PUNTI CHIAVE
+                               PUNTI CHIAVE DEL PROGRAMMA NumeriPari
 =======================================================================================================
 1. Numeri pari: Un numero è pari se numeroi %2 == 0.
 2. Gestione Errori: Se l'utente inserisce un numero dispari, il programma lo segnala e chiedi di nuovo.
