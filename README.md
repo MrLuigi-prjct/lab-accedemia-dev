@@ -1,4 +1,4 @@
-                                         ACCADEMIA
+                                                          ACCADEMIA
 * Inizio anno: 2019 - 2025
 * Nome.Cognome: Luigi Guernelli
 * Ruolo: Programmatore Informatico
