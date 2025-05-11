@@ -1,7 +1,9 @@
 =====================================================================
                      📂 STRUTTURA DEL PROGRAMMA
 =====================================================================                                                         
-|-1. benvenuto.html
-  - Pagina di presentazione base                     
-  - Esempio di struttura HTML essenziale (doctype, head, body)                    
-  - Testo semplice con titoli e paragrafi
+|-2. immagine.html         
+  - Pagina con titolo e immagine centrata
+  - Esempi di:
+    - Uso del tag '<img>'
+    -  Centratura con HTML/CSS
+    - Attributi alt/text alternativo 
