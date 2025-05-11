@@ -8,5 +8,5 @@
     - Uso del tag '<img>'
     - Centratura con HTML/CSS
     - Collegamewnto esterno tra i due linguaggi richiamando il CSS all'interno dell'HTML
-      con il tag '<link rel="stylesheet" href="style-img.css">?
+      con il tag '<link rel="stylesheet" href="style-img.css">'
     - Attributi alt/text alternativo 
