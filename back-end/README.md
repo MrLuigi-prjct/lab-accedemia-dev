@@ -1,13 +1,13 @@
 =========================================================================================
-                    BENVENUTO NELLA SEZIONE DEDICATA AL BACK-END
+                        BENVENUTO NELLA SEZIONE DEDICATA AL BACK-END
 =========================================================================================
 Introduzione al percorso di sviluppo back-end con (java).
-QWuesto percorso copre le tecnologie fondamentali per costruire applicazioni web complete,
+Questo percorso copre le tecnologie fondamentali per costruire applicazioni web complete,
 dalla programmazione di base all'integrazione con database e front-end.
 ------------------------------------------------------------------------------------------
 📂 Struttura del percorso:
 1. Java OOP - Fondamantali di programmazione orientata agli oggetti in java
-   (Classi, oggetti, erditarietà, poliformismo, incapsulamento)§
+   (Classi, oggetti, erditarietà, poliformismo, incapsulamento)
 ------------------------------------------------------------------------------------------
 2. Servlet
 - Elaborazione delle richieste HTTP e dinamica server-side
