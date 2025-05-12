@@ -26,7 +26,7 @@ dalla programmazione di base all'integrazione con database e front-end.
 ==========================================================================================
 API REST/Web Services
 
-Sicurezza (Autenticazione/Autorizzazione, JWT, OAuth)
+Sicurezza (Autenticazione/Autorizzazione, JWT, Oauth)
 
 Framework moderni (Spring/Spring Boot)
 
