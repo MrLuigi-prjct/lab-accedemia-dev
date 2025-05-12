@@ -1,5 +1,5 @@
 =========================================================================================
-                    BENVENUTO NELLA SEZIONE DEDICATA AL BACK-EMD
+                    BENVENUTO NELLA SEZIONE DEDICATA AL BACK-END
 =========================================================================================
 Introduzione al percorso di sviluppo back-end con (java).
 QWuesto percorso copre le tecnologie fondamentali per costruire applicazioni web complete,
