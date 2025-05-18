@@ -1,27 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home-Portfolio</title>
-    <link rel="stylesheet" href="style.css" alt="Link for style page">
+    <title>Switch On/Off</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>Benvenuto nel mio Portfolio</h1>
-        <nav>
-            <a href="index.html">Home</a>
-            <a href="about.html">Chi sono</a>
-            <a href="contact.html">Contatti</a>
-        </nav>
-    </header>
+    <div class="container">
+        <h1>Controllo Lampadina</h1>
+        
+        <div class="device-container">
+            <img id="device-image" src="immagine/off.png" alt="Stato dispositivo" height="250" width="250">
+        </div>
+        
+        <button id="toggle-btn" class="on">Accendi</button>
+    </div>
 
-    <main>
-        <p>Sono uno sviluppatore junior appassionato di tecnologia!</p>
-    </main>
-
-    <footer>
-        <p>@2025 - Tutti i diritti riservati</p>
-    </footer>
+    <script src="script.js"></script>
 </body>
 </html>
