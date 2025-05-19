@@ -1,5 +1,5 @@
 ========================================================================================
-||                                       JSPServletExample                            ||
+||                                     JSPServletExample                              ||
 ========================================================================================
 > Un progetto base con **Java**, **JSP**, **Servlet**
 > **Tomcat 9**, configurato con **Maven** e sviluppato con **IntelliJ IDEA Community**.
