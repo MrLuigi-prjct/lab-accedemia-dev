@@ -1,8 +1,8 @@
-package com.example;
+package com.example.controller;
 
 
-import org.luigi.dao.UserDAO;
-import org.luigi.model.User;
+import org.example.dao.UserDAO;
+import org.example.model.User;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
