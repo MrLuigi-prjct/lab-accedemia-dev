@@ -1,5 +1,5 @@
 ======================================================================================
-||                                 Gestione Utenti WebApp				          			    ||
+||                                Gestione Utenti WebApp                            ||
 ======================================================================================
 || Applicazione web Java basata su Servlet, JDBC e MySQL.						              	||
 || Il progetto implementa un sistema di registrazione utenti tramite form HTML      ||
