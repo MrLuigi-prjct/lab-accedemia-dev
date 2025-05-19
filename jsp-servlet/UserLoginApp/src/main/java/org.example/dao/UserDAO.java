@@ -1,6 +1,6 @@
-package org.luigi.dao;
+package org.example.dao;
 
-import org.luigi.model.User;
+import org.example.model.User;
 
 import java.sql.*;
 
