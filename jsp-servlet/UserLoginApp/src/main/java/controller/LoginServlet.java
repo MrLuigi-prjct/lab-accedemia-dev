@@ -1,4 +1,4 @@
-package com.example;
+package com.example.controller;
 
 import org.luigi.dao.UserDAO;
 import org.luigi.model.User;
