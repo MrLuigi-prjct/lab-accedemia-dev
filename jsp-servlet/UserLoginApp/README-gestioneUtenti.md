@@ -1,7 +1,7 @@
 ======================================================================================
 ||                                Gestione Utenti WebApp                            ||
 ======================================================================================
-|| Applicazione web Java basata su Servlet, JDBC e MySQL.						              	||
+|| Applicazione web Java basata su Servlet, JDBC e MySQL.                           ||
 || Il progetto implementa un sistema di registrazione utenti tramite form HTML      ||
 || e salvataggio nel database. Il pattern usato è MVC con DAO (Data Access Object). ||
 ======================================================================================
