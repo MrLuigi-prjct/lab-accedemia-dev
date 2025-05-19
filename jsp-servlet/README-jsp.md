@@ -6,7 +6,8 @@
  Al suo interno troverete file JSP (JavaServerPages) e Servlet, ovvero due tecnologie
  chiave per lo sviluppo di applicazioni web dinamiche basate su Java.
 =================================================================================================
- Contenuto:
+||                                      CONTENUTO DELLE CARTELLE                               ||
+=================================================================================================
 - File .jsp
  Sono simili all'HTML ma permettono di includere codice Java direttamente nella pagina.
  Servono per generare dinamicamente il contenuto da visualizzare all'utente.
