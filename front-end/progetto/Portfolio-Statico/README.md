@@ -1,13 +1,9 @@
 ==========================================================================
-||                         PORTFOLIO-STATICO
+> PORTFOLIO-STATICO
 ==========================================================================
-|| Mini sito portfolio personale con 3 pagine
+> Mini sito portfolio personale con 3 pagine
 --------------------------------------------------------------------------
-📂 Struttura del programma
---------------------------------------------------------------------------
-Nome: Luigi
-Versione: 1.0
---------------------------------------------------------------------------
+>📂 Struttura del programma
 - 3 pagine HTML:
 /portfolio-statico
 |
@@ -16,7 +12,7 @@ Versione: 1.0
 |- contact.html -> Contatti
 |__ style.css
 ==========================================================================
-           OBIETTIVO: AGGIUNGERRE JAVASCRIPT AL SITO STATICO
+> OBIETTIVO: AGGIUNGERRE JAVASCRIPT AL SITO STATICO
 ==========================================================================
 Versione: 2
 - javascript.js
