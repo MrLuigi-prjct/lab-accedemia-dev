@@ -3,7 +3,7 @@
 > Linguaggio: Java OOP
 > IDE: IntelliJ Comunity
 > Versione: 1.0
-==============================================================================================
+-----------------------------------------------------------------------------------
 > Obiettivi/
 |- Un applicazione da console che consente all'utente di:
 \\
@@ -12,7 +12,7 @@
 > Cercare parole all'interno dei file
 > Salvare i risultati su .txt e .csv
 > Supportare la serializzazione per salvataggi/stati
-==============================================================================================
+------------------------------------------------------------------------------------
 > Classi Prinicipali
 \\
 >✅ 1.AnalisiFileSystem.java  (main)
@@ -21,13 +21,13 @@
 >✅ 4.CercaParola.java        (cerca parola specifica dentro i file)
 >✅ 5.RisultatiContatori.java (classe per incapusalere gli obj (classe bean))
 >✅ 6.GestioneFile.java       (Scrive e legge risultati da .txt / .csv)
-==============================================================================================
+------------------------------------------------------------------------------------
 > Persistenza e serializzazione
 \\
 > Persistenza: -Scrittura dei risultati su file .txt e .csv
 > FileWriter writer = new FileWriter("risultati.csv");
 > BufferedWriter buffer = new BufferedWriter(writer);
-==============================================================================================
+------------------------------------------------------------------------------------
 > Esempio flusso operativo
 1. L'utente avvia AnalisiFileSystem.java
 2. Sceglie il percorso
