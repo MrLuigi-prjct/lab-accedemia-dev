@@ -1,12 +1,10 @@
-==============================================================================================================
-                                  BENVENUTO NELLA SEZIONE DEDICATA AL FRONT-END
-==============================================================================================================
-Introduzione all'HTML e alla struttura iniziale di un qualsiasi programma scritto in
-questo linguaggio di markup.
+> BENVENUTO NELLA SEZIONE DEDICATA AL FRONT-END
+--------------------------------------------------------------------------------------------------------------
+> Introduzione all'HTML e alla struttura iniziale di un qualsiasi programma scritto in
+  questo linguaggio di markup.
 
-Dividerò i programmi in cartelle, come hai già avuto modo di scoprire, cercando di 
-fornire una struttura adatta allo sviluppo di un progetto che includa i linguaggi 
-del front-end:
+> Dividerò i programmi in cartelle, come hai già avuto modo di scoprire, cercando di 
+ fornire una struttura adatta allo sviluppo di un progetto che includa i linguaggi del front-end:
 --------------------------------------------------------------------------------------------------------------
 1. **HTML (HyperText Markup Language)**  
    - Linguaggio di markup per strutturare il contenuto web (testi, immagini, link, ecc.).  
