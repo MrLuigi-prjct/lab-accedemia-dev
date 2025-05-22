@@ -8,4 +8,4 @@
 ---------------------------------------------------------------------------------------------------------------
 > VERSIONE 1.0
 > Questo mini-progetto simula una struttura familiare. Tutte le classi derivano da Persona e aggiungono qualche
-  informazione o comportamento specifico,
+< informazione o comportamento specifico,
