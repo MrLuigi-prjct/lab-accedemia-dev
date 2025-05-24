@@ -16,22 +16,22 @@
   - Automizzare operazioni complesse
 ----------------------------------------------------------------------------------------------------------------------------------
 ❗> Componenti di un Database Relazione
-  1. Tabelle: simili a fogli Excel. Ogni riga è un record, ogni colonna un campo.
-  2. Record: una singola riga nella tabella.
-  3. Campi (colanne): tipi di dato es.(nome, email, dataNascita)
-  4. Chiavi:
-     - Primaria (Primary Key): identifica in modo univoco ogni record.
-     - Esterna (Foreign Key): collega due tabelle.
+1. Tabelle: simili a fogli Excel. Ogni riga è un record, ogni colonna un campo.
+2. Record: una singola riga nella tabella.
+3. Campi (colanne): tipi di dato es.(nome, email, dataNascita)
+4. Chiavi:
+ - Primaria (Primary Key): identifica in modo univoco ogni record.
+ - Esterna (Foreign Key): collega due tabelle.
 -----------------------------------------------------------------------------------------------------------------------------------
 > SQL (Structure Query Lanagauge)
 - E un linguaggio standard usato per interagire con i database relazionali.
 - Ti peremntee di:
-  1. Creare strutturre dati (database, tabelle)
-  2. Inserire i dati (INSERT)
-  3. Leggere o selezionare dati (SELECT)
-  4. Modificare dati (UPDATE)
-  5. Eliminare dati (DELETE)
-  6. Controllare gli accessi e gestire permessi
+1. Creare strutturre dati (database, tabelle)
+2. Inserire i dati (INSERT)
+3. Leggere o selezionare dati (SELECT)
+4. Modificare dati (UPDATE)
+5. Eliminare dati (DELETE)
+6. Controllare gli accessi e gestire permessi
 -----------------------------------------------------------------------------------------------------------------------------------
 Queste operazioni sono chiamate CRUD:
 CREATE / READ / UPDATE / DELETE
