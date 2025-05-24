@@ -15,4 +15,10 @@
   - Velocizzare l'accesso e la ricerca
   - Automizzare operazioni complesse
 ----------------------------------------------------------------------------------------------------------------------------------
-❗> 
+❗> Componenti di un Database Relazione
+  1. Tabelle: simili a fogli Excel. Ogni riga è un record, ogni colonna un campo.
+  2. Record: una singola riga nella tabella.
+  3. Campi (colanne): tipi di dato es.(nome, email, dataNascita)
+  4. Chiavi:
+     - Primaria (Primary Key): identifica in modo univoco ogni record.
+     - Esterna (Foreign Key): collega due tabelle.
