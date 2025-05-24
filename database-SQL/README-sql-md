@@ -7,3 +7,12 @@
   - Un database può contenere una tabaella chiamata (Clienti).
   - Ogni riga rappresenta un cliente: (nome, email, telefono).
   - Ogni Colonna è un campo tipo: (nome, email telefono)
+----------------------------------------------------------------------------------------------------------------------------------
+❗> Perchè utilizzare un Database
+  - Evitare la ridondanza dei dati (niente doppioni inutili)
+  - Garantire l'integrità dei dati
+  - Controllare l'accesso (solo chi è autorizzato può modificare)
+  - Velocizzare l'accesso e la ricerca
+  - Automizzare operazioni complesse
+----------------------------------------------------------------------------------------------------------------------------------
+❗> 
