@@ -1,4 +1,4 @@
-> INTRODUZIONE AI DATABASE
+> INTRODUZIONE AI DATABASE E ALL' SQL
 - Cos'è un Database
   Un database è una raccolta organizzata di dati. Serve per memorizzare, gestire e recuperare informazioni in modo efficiente.
   Immaginalo come un archivio digitale: al posto dei fogli di carta, hai 'tabelle', colonne e righe.
@@ -22,3 +22,16 @@
   4. Chiavi:
      - Primaria (Primary Key): identifica in modo univoco ogni record.
      - Esterna (Foreign Key): collega due tabelle.
+-----------------------------------------------------------------------------------------------------------------------------------
+> SQL (Structure Query Lanagauge)
+- E un linguaggio standard usato per interagire con i database relazionali.
+- Ti peremntee di:
+  1. Creare strutturre dati (database, tabelle)
+  2. Inserire i dati (INSERT)
+  3. Leggere o selezionare dati (SELECT)
+  4. Modificare dati (UPDATE)
+  5. Eliminare dati (DELETE)
+  6. Controllare gli accessi e gestire permessi
+-----------------------------------------------------------------------------------------------------------------------------------
+Queste operazioni sono chiamate CRUD:
+CREATE / READ / UPDATE / DELETE
