@@ -23,7 +23,7 @@
  - Primaria (Primary Key): identifica in modo univoco ogni record.
  - Esterna (Foreign Key): collega due tabelle.
 -----------------------------------------------------------------------------------------------------------------------------------
-> SQL (Structure Query Lanagauge)
+❗> SQL (Structure Query Lanagauge)
 - E un linguaggio standard usato per interagire con i database relazionali.
 - Ti peremntee di:
 1. Creare strutturre dati (database, tabelle)
