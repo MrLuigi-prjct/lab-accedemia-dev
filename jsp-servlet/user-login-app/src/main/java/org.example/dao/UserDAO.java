@@ -1,14 +1,14 @@
-package org.luigi.dao;
+_databasepackage org.example.dao;
 
-import org.luigi.model.User;
+import org.example.model.User;
 
 import java.sql.*;
 
 public class UserDAO {
 
-    private final String jdbcURL = "jdbc:mysql://localhost:3306/gestione_utenti";
+    private final String jdbcURL = "jdbc:mysql://localhost:3306/nome_database";
     private final String jdbcUsername = "root"; // ← Cambia con il tuo
-    private final String jdbcPassword = "Qwerty00";     // ← Cambia con la tua password
+    private final String jdbcPassword = "la_tua_password";     // ← Cambia con la tua password
 
     private Connection getConnection() {
         Connection conn = null;
