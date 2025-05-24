@@ -1,1 +1,9 @@
--empty
+> INTRODUZIONE AI DATABASE
+- Cos'è un Database
+  Un database è una raccolta organizzata di dati. Serve per memorizzare, gestire e recuperare informazioni in modo efficiente.
+  Immaginalo come un archivio digitale: al posto dei fogli di carta, hai 'tabelle', colonne e righe.
+---------------------------------------------------------------------------------------------------------------------------------
+📦> Esempio semplice:
+  - Un database può contenere una tabaella chiamata (Clienti).
+  - Ogni riga rappresenta un cliente: (nome, email, telefono).
+  - Ogni Colonna è un campo tipo: (nome, email telefono)
