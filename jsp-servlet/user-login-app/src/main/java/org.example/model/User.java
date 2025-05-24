@@ -1,4 +1,4 @@
-package org.luigi.model;
+package org.example.model;
 
 /**
  * Classe modello per rappresentare un utente.
